@@ -55,7 +55,7 @@ int main()
         {
             cout << "Number " << user_input << " is found at the location : " << counter;
 
-            exit(0);
+            exit(0);            //Reports the successful termination/completion of the program.
         }
         counter++;
     }
